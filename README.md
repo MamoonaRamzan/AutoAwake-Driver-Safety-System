@@ -6,10 +6,10 @@ DriverDrowsinessDetector:
   data:
     - train/
     - test/
-  model.pt: "Trained YOLOv8 model weights"
-  Alert.wav: "Audio alert for drowsiness detection"
-  training.ipynb: "Notebook for model training and evaluation"
-  drowy detector.py: "Script for real-time drowsiness detection using webcam"
+  model.pt:"Trained YOLOv8 model weights"
+  Alert.wav:"Audio alert for drowsiness detection"
+  training.ipynb:"Notebook for model training and evaluation"
+  drowy detector.py:"Script for real-time drowsiness detection using webcam"
   
 ## 🔍 Features
 - 🧠 Trained YOLOv8 model for drowsiness detection
